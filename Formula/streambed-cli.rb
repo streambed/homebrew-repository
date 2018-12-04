@@ -1,7 +1,7 @@
 class StreambedCli < Formula
-  url "https://repositories.streambed.io/packages/streambed-cli/0.10.1/streambed-cli-0.10.1-mac-x86_64.tar.gz", :using => :nounzip
-  version "0.10.1"
-  sha256 "86bd95d138b1e03ea090523b3c242afbf8d84d1fb28003726cb9bb574be12a8f"
+  url "https://repositories.streambed.io/packages/streambed-cli/0.10.2/streambed-cli-0.10.2-mac-x86_64.tar.gz", :using => :nounzip
+  version "0.10.2"
+  sha256 "98af2104844b2a948d83f845ae3b2973752226d8def57b906c934f16fda92344"
 
   desc "CLI tools to install and manage Streambed applications"
   homepage "https://www.streambed.io/"
